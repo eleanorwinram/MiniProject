@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Fashion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fashion\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ cost\ fluctuation\ brandType
+comment1.target=Fashion(java.lang.String,\ double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getbrand()
+comment3.params=
+comment3.target=java.lang.String\ printinfo()
+comment4.params=
+comment4.target=void\ printnews()
+numComments=5

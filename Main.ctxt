@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ Main(java.lang.String[])
+comment2.params=fash1\ t1\ f3
+comment2.target=void\ showinfo(Stock,\ Stock,\ Stock)
+comment3.params=fash1\ t1\ f3\ acc1
+comment3.target=void\ buy(Stock,\ Stock,\ Stock,\ Account)
+comment4.params=fash1\ t1\ f3\ acc1
+comment4.target=void\ sell(Stock,\ Stock,\ Stock,\ Account)
+comment5.params=m
+comment5.target=java.lang.String\ input(java.lang.String)
+comment6.params=m
+comment6.target=int\ inputint(java.lang.String)
+comment7.params=m
+comment7.target=void\ print(java.lang.String)
+comment8.params=
+comment8.target=void\ randomnews()
+numComments=9
